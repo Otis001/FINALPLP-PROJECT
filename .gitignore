@@ -1,6 +1,10 @@
 # Node modules
 node_modules/
 
+package.json
+package-lock.json
+
+
 # Build directory
 dist/
 build/
@@ -18,14 +22,6 @@ pids/
 *.pid
 *.seed
 *.pid.lock
-
-
-
-# Coverage directory used by tools like istanbul
-coverage/
-
-# Dependency directories
-jspm_packages/
 
 # Optional npm cache directory
 .npm/
